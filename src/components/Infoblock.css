@@ -1,0 +1,28 @@
+.block {
+  position: relative;
+  width: 108px;
+  height: 100px;
+  background-color: #4361ee;
+  border-radius: 8px;
+  margin: 20px;
+}
+
+
+
+.block span {
+  position: absolute;
+  top: 0px;
+  left: 5px;
+  padding: 5px;
+  color: white;
+  font-weight: 700;
+}
+
+h1 {
+    position: absolute;
+    bottom: 0;
+    font-size: 40px;
+    left: 25px;
+  color: white;
+  font-weight: 300;
+}

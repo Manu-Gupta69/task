@@ -1,0 +1,24 @@
+.tab{
+    font-size: 11px;
+    border: 1px solid rgb(218, 217, 217);
+    display: flex;
+    padding: 18px;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 1px 4px 6px -9px rgba(0, 0, 0, 0.658);
+    margin: 10px 25px;
+}
+
+.righttab{
+    border: 1px solid rgb(218, 217, 217);
+   display: flex;
+   justify-content: space-between;
+    padding: 18px;
+    box-shadow: 1px 4px 6px -9px rgba(0, 0, 0, 0.658);
+    margin: 10px 0;
+    font-size: 15px;
+  
+}
+.righttab h4{
+    font-size: 10px;
+}
